@@ -2,7 +2,7 @@
 #announce: Нажмите на значок "⏲" и измерьте скорость. Там где Н/Д - не работает. Чем ниже мс - тем лучше. Уяснили? Молодцы, возьмите с полки пирожок.
 #profile-update-interval: 1
 #support-url: https://i.pinimg.com/236x/03/d6/08/03d608cd8ec6ef04a013d291c61ea017.jpg
-#profile-web-page-url: https://mixnews.lv/wp-content/uploads/2025/12/29/2024-12-29-mixnews-16a16e0ed60cb0910526a4554a06b36c.jpg
+#profile-web-page-url: https://github.com/KitGamerYT/NikitkoSBP/blob/main/README.md
 
 vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@de.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sub.sbrf-cdn342.ru&fp=chrome&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111&type=tcp#🇩🇪 Германия | Wi-Fi
 vless://49cc6bfe-3d5e-447e-b2a4-55c28410b0b2@ger4.odavpn.online:443?type=tcp&security=reality&pbk=a-wG98_Wcj3SpDukbIpVYHhqz_d4D_jx2IET50t8Yh8&fp=chrome&sni=avatars.mds.yandex.net&sid=976de96413efd9da&flow=xtls-rprx-vision#🇩🇪 Германия | Wi-Fi
