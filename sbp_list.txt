@@ -1,7 +1,7 @@
 #profile-title: НикиткоСБП
 #announce: Нажмите на значок "⏲" и измерьте скорость. Там где Н/Д - не работает. Чем ниже мс - тем лучше. Уяснили? Молодцы, возьмите с полки пирожок.
 #profile-update-interval: 1
-#support-url: https://i.pinimg.com/236x/03/d6/08/03d608cd8ec6ef04a013d291c61ea017.jpg
+#support-url: https://github.com/KitGamerYT/NikitkoSBP/blob/main/README.md
 #profile-web-page-url: https://github.com/KitGamerYT/NikitkoSBP/blob/main/README.md
 
 vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@de.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sub.sbrf-cdn342.ru&fp=chrome&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111&type=tcp#🇩🇪 Германия | Wi-Fi
