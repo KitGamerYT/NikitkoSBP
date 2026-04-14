@@ -159,7 +159,7 @@
       "protocol": "blackhole"
     }
   ],
-  "remarks": "Германия | Элита 🇩🇪",
+  "remarks": "авто",
   "routing": {
     "domainMatcher": "hybrid",
     "domainStrategy": "IPIfNonMatch",
