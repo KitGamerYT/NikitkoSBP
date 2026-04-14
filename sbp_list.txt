@@ -4,7 +4,6 @@
 #support-url: https://github.com/KitGamerYT/NikitkoSBP/blob/main/README.md
 #profile-web-page-url: https://github.com/KitGamerYT/NikitkoSBP/blob/main/README.md
 
-vless://57e73dcd-5fdb-4f2c-a83a-df88028b6d9a@test.grey-lance.test-cdn-kkk.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=qq&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&type=tcp#grp-26-1
 vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@de.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sub.sbrf-cdn342.ru&fp=chrome&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111&type=tcp#🇩🇪 Германия | Wi-Fi
 vless://49cc6bfe-3d5e-447e-b2a4-55c28410b0b2@ger4.odavpn.online:443?type=tcp&security=reality&pbk=a-wG98_Wcj3SpDukbIpVYHhqz_d4D_jx2IET50t8Yh8&fp=chrome&sni=avatars.mds.yandex.net&sid=976de96413efd9da&flow=xtls-rprx-vision#🇩🇪 Германия | Wi-Fi
 vless://62c7f681-2e76-4d5d-b41b-ef187fa254f2@93.123.85.185:443?type=tcp&security=reality&sni=de-3.techprovide.online&fp=chrome&pbk=KvXGx5NqnYnUxveJ3DSzQ2Zx_FlB6i-narUvQR-igX8&sid=e0f4c8a56b14f29b&flow=xtls-rprx-vision#🇩🇪 Германия | Wi-Fi
