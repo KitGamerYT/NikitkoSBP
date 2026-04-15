@@ -4,6 +4,34 @@
 #support-url: https://github.com/KitGamerYT/NikitkoSBP/blob/main/README.md
 #profile-web-page-url: https://github.com/KitGamerYT/NikitkoSBP/blob/main/README.md
 
+ss://YzJmMmQ6ZmFrZXBhc3N3b3Jk@127.0.0.1:1#НОВЫЕ СЕРВЕРА!
+ss://YzJmMmQ6ZmFrZXBhc3N3b3Jk@127.0.0.1:1#ЗАХОДИ НА САЙТ И
+ss://YzJmMmQ6ZmFrZXBhc3N3b3Jk@127.0.0.1:1#ДОБАВЛЯЙ
+ss://YzJmMmQ6ZmFrZXBhc3N3b3Jk@127.0.0.1:1#==БЫСТРЫЕ==
+
+vless://9c31cf36-7616-437e-9917-fd029ed9ab5f@89.125.37.118:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=chat.deepseek.com&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&type=tcp#🇸🇪 Швеция | Wi-Fi
+vless://e559b201-72bb-4eb4-9d0e-7e2b029dfe63@155.212.215.77:4359?encryption=none&flow=xtls-rprx-vision&security=reality&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp#🇸🇪 Швеция | Wi-Fi
+vless://49cc6bfe-3d5e-447e-b2a4-55c28410b0b2@fin.odavpn.online:8443?type=tcp&security=reality&pbk=JUg1ffaYEBNIbnNJHDWFP7pnX2LLGONJbjP5m1ab6Fo&fp=chrome&sni=storage.mds.yandex.net&sid=ca75b88bd067b39d&flow=xtls-rprx-vision#🇫🇮 Финляндия | Wi-Fi
+vless://a3a90d47-df89-496b-a578-814d8c85d8fc@finland-1.mutabor-sec.ru:37623?security=reality&encryption=none&pbk=VSD97wC6JYviZSi66w6leWdOljj_dr4LaibgyoGDLnw&fp=chrome&type=tcp&sni=www.mutabor-sec.ru&sid=458dfb15fb#🇫🇮 Финляндия | Wi-Fi
+
+
+vless://49d0c0e1-9d25-42f5-af08-3f424592070a@fin.nbbconnect.ru:443?encryption=none&security=reality&type=grpc&sni=fin.nbbconnect.ru&fp=chrome&pbk=hmHfqhtjvEVX39Hd7jAbYaWeQj00a0HUfJsdHUTT7SM&serviceName=secure#🇫🇮 Финляндия | LTE
+vless://e060f013-53e5-4d88-bf5e-f93baa562ac5@fix3.braidpro.online:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=HjFePi_ejebCJfFbCIQk8T1dU148E8q2LIqMrjBqBik&sid=558319deaf4ae7b3&sni=fix3.braidpro.online#🇫🇮 Финляндия | LTE
+vless://49cc6bfe-3d5e-447e-b2a4-55c28410b0b2@fin9.odavpn.online:443?type=tcp&security=reality&pbk=_pwBFLMZeOsRmIIafJkBY9i1IOxDc9NGIrSrZl-Icws&fp=chrome&sni=storage.mds.yandex.net&sid=ca75b88bd067b39d&flow=xtls-rprx-vision#🇸🇪 Швеция | LTE
+vless://9c31cf36-7616-437e-9917-fd029ed9ab5f@152.53.91.244:443?flow=xtls-rprx-vision&fp=chrome&pbk=E39gVJGVXKV6UXzW6TIyrz5wXZSyqzA7_5seNeQNHyg&security=reality&sid=d82fb388&sni=www.nytimes.com&type=tcp#🇸🇪 Швеция | LTE
+vless://cb8ef789-2eb0-455a-909d-879fe09cf9d4@fr.nodes.rocketnetwork.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.nodes.rocketnetwork.ru&fp=chrome&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32&type=tcp#🇫🇷 Франция | LTE
+vless://62c7f681-2e76-4d5d-b41b-ef187fa254f2@185.163.126.96:443?type=tcp&security=reality&sni=fr-1.techprovide.online&fp=chrome&pbk=KvXGx5NqnYnUxveJ3DSzQ2Zx_FlB6i-narUvQR-igX8&sid=e0f4c8a56b14f29b&flow=xtls-rprx-vision#🇫🇷 Франция | LTE
+vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@it-bridge.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=chrome&type=tcp#🇮🇹 Италия | LTE
+
+
+vless://d2b2c45d-50e7-4df6-887a-e4b3eb707740@fr-u9.vpn-port.com:443?security=reality&encryption=none&pbk=SsFNPkgyzbRjz6SwfWxuAWOadCOatx_2-nQCBB9EhTA&fp=chrome&spx=%2FX7ORJmWJnu4Phnn&allowinsecure=0&type=grpc&sni=yimg.com&sid=b6349c7a#🇫🇷 Франция |  WiFi и LTE
+
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.126.83.158:990#🇮🇹 Италия | УльтраКрут
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#🇫🇮 Финляндия | УльтраКрут
+
+
+ss://YzJmMmQ6ZmFrZXBhc3N3b3Jk@127.0.0.1:1#==РЕЗЕРВ==
 vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@de.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sub.sbrf-cdn342.ru&fp=chrome&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&sid=111111&type=tcp#🇩🇪 Германия | Wi-Fi
 vless://49cc6bfe-3d5e-447e-b2a4-55c28410b0b2@ger4.odavpn.online:443?type=tcp&security=reality&pbk=a-wG98_Wcj3SpDukbIpVYHhqz_d4D_jx2IET50t8Yh8&fp=chrome&sni=avatars.mds.yandex.net&sid=976de96413efd9da&flow=xtls-rprx-vision#🇩🇪 Германия | Wi-Fi
 vless://62c7f681-2e76-4d5d-b41b-ef187fa254f2@93.123.85.185:443?type=tcp&security=reality&sni=de-3.techprovide.online&fp=chrome&pbk=KvXGx5NqnYnUxveJ3DSzQ2Zx_FlB6i-narUvQR-igX8&sid=e0f4c8a56b14f29b&flow=xtls-rprx-vision#🇩🇪 Германия | Wi-Fi
@@ -14,10 +42,6 @@ vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@nl-tx.sbrf-cdn342.ru:443?encryption
 vless://cb8ef789-2eb0-455a-909d-879fe09cf9d4@nl.nodes.rocketnetwork.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl.nodes.rocketnetwork.ru&fp=chrome&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32&type=tcp#🇳🇱 Нидерланды | Wi-Fi
 vless://49d0c0e1-9d25-42f5-af08-3f424592070a@neth.nbbconnect.ru:443?encryption=none&security=reality&type=grpc&sni=neth.nbbconnect.ru&fp=chrome&pbk=hmHfqhtjvEVX39Hd7jAbYaWeQj00a0HUfJsdHUTT7SM&sid=7890abcdef123456&serviceName=secure#🇳🇱 Нидерланды | Wi-Fi
 vless://132ac594-84d9-463d-aed7-9e65c4580870@super.vpn125.top:46806?type=tcp&security=reality&sni=www.microsoft.com&fp=chrome&pbk=PFSaepznxbwfydXS_K5B1R8KJn-t0hjaExuL4P555zw&sid=d8bc63e1&flow=xtls-rprx-vision#🇳🇱 Нидерланды | Wi-Fi
-vless://9c31cf36-7616-437e-9917-fd029ed9ab5f@89.125.37.118:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=chat.deepseek.com&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&type=tcp#🇸🇪 Швеция | Wi-Fi
-vless://e559b201-72bb-4eb4-9d0e-7e2b029dfe63@155.212.215.77:4359?encryption=none&flow=xtls-rprx-vision&security=reality&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp#🇸🇪 Швеция | Wi-Fi
-vless://49cc6bfe-3d5e-447e-b2a4-55c28410b0b2@fin.odavpn.online:8443?type=tcp&security=reality&pbk=JUg1ffaYEBNIbnNJHDWFP7pnX2LLGONJbjP5m1ab6Fo&fp=chrome&sni=storage.mds.yandex.net&sid=ca75b88bd067b39d&flow=xtls-rprx-vision#🇫🇮 Финляндия | Wi-Fi
-vless://a3a90d47-df89-496b-a578-814d8c85d8fc@finland-1.mutabor-sec.ru:37623?security=reality&encryption=none&pbk=VSD97wC6JYviZSi66w6leWdOljj_dr4LaibgyoGDLnw&fp=chrome&type=tcp&sni=www.mutabor-sec.ru&sid=458dfb15fb#🇫🇮 Финляндия | Wi-Fi
 vless://49cc6bfe-3d5e-447e-b2a4-55c28410b0b2@pol8.odavpn.online:443?type=tcp&security=reality&pbk=SLlitkppx61gRjJfXRxmp5EMpAmz94opbwIujhEUbRo&fp=chrome&sni=auto.ru&sid=0a3000f8f7e30989&flow=xtls-rprx-vision#🇵🇱 Польша | Wi-Fi
 vless://cb8ef789-2eb0-455a-909d-879fe09cf9d4@pl.nodes.rocketnetwork.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=pl.nodes.rocketnetwork.ru&fp=chrome&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32&type=tcp#🇵🇱 Польша | Wi-Fi
 vless://49cc6bfe-3d5e-447e-b2a4-55c28410b0b2@usa3.odavpn.online:443?type=tcp&security=reality&pbk=gvfk__Ln3cM4xmuKG1bvDQLhvXvf51UFJxTNHDXeZVs&fp=chrome&sni=www.kinopoisk.ru&sid=aabbccdd&flow=xtls-rprx-vision#🇺🇸 США | Wi-Fi
@@ -31,33 +55,20 @@ vless://49cc6bfe-3d5e-447e-b2a4-55c28410b0b2@ger4.odavpn.online:8443?type=tcp&se
 vless://49d0c0e1-9d25-42f5-af08-3f424592070a@neth.nbbconnect.ru:8443?encryption=none&security=reality&type=grpc&sni=neth.nbbconnect.ru&fp=chrome&pbk=hmHfqhtjvEVX39Hd7jAbYaWeQj00a0HUfJsdHUTT7SM&sid=7890abcdef123456&serviceName=secure#🇳🇱 Нидерланды | LTE
 vless://65632d4a-0e5a-4d96-a492-c1b1c7ab0305@nd.nitroo-tech.ru:23355?encryption=none&security=reality&type=grpc&sni=www.apple.com&fp=chrome&pbk=ZaiARE0PFYXN6XQhxjFSGzpthEGHmytMX8LCq9gSek8&sid=41b06f&serviceName=api#🇳🇱 Нидерланды | LTE
 vless://49cc6bfe-3d5e-447e-b2a4-55c28410b0b2@nl7.odavpn.online:443?type=xhttp&path=%2FsD9yMx1nFw6PqZ3eRt8B&host=www.kinopoisk.ru&mode=auto&security=reality&fp=chrome&pbk=yMMmX6eYzpK2xLlXay3QTSNkvsLcSEV84n-3FD0RvFw&sni=www.kinopoisk.ru&sid=aabbccdd#🇳🇱 Нидерланды | LTE
-vless://49cc6bfe-3d5e-447e-b2a4-55c28410b0b2@fin9.odavpn.online:443?type=tcp&security=reality&pbk=_pwBFLMZeOsRmIIafJkBY9i1IOxDc9NGIrSrZl-Icws&fp=chrome&sni=storage.mds.yandex.net&sid=ca75b88bd067b39d&flow=xtls-rprx-vision#🇸🇪 Швеция | LTE
-vless://9c31cf36-7616-437e-9917-fd029ed9ab5f@152.53.91.244:443?flow=xtls-rprx-vision&fp=chrome&pbk=E39gVJGVXKV6UXzW6TIyrz5wXZSyqzA7_5seNeQNHyg&security=reality&sid=d82fb388&sni=www.nytimes.com&type=tcp#🇸🇪 Швеция | LTE
-vless://49d0c0e1-9d25-42f5-af08-3f424592070a@fin.nbbconnect.ru:443?encryption=none&security=reality&type=grpc&sni=fin.nbbconnect.ru&fp=chrome&pbk=hmHfqhtjvEVX39Hd7jAbYaWeQj00a0HUfJsdHUTT7SM&serviceName=secure#🇫🇮 Финляндия | LTE
-vless://e060f013-53e5-4d88-bf5e-f93baa562ac5@fix3.braidpro.online:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=HjFePi_ejebCJfFbCIQk8T1dU148E8q2LIqMrjBqBik&sid=558319deaf4ae7b3&sni=fix3.braidpro.online#🇫🇮 Финляндия | LTE
 vless://49cc6bfe-3d5e-447e-b2a4-55c28410b0b2@pol6.odavpn.online:443?type=xhttp&path=%2FtDjkeuxyQPUDqF8wT2&host=www.kinopoisk.ru&mode=auto&security=reality&fp=chrome&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&sni=www.kinopoisk.ru&sid=aabbccdd#🇵🇱 Польша | LTE
 vless://49d0c0e1-9d25-42f5-af08-3f424592070a@poland.nbbconnect.ru:443?encryption=none&security=reality&type=grpc&sni=poland.nbbconnect.ru&fp=chrome&pbk=hmHfqhtjvEVX39Hd7jAbYaWeQj00a0HUfJsdHUTT7SM&sid=f5ec91869408cc64&serviceName=secure#🇵🇱 Польша | LTE
-vless://cb8ef789-2eb0-455a-909d-879fe09cf9d4@fr.nodes.rocketnetwork.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fr.nodes.rocketnetwork.ru&fp=chrome&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32&type=tcp#🇫🇷 Франция | LTE
-vless://62c7f681-2e76-4d5d-b41b-ef187fa254f2@185.163.126.96:443?type=tcp&security=reality&sni=fr-1.techprovide.online&fp=chrome&pbk=KvXGx5NqnYnUxveJ3DSzQ2Zx_FlB6i-narUvQR-igX8&sid=e0f4c8a56b14f29b&flow=xtls-rprx-vision#🇫🇷 Франция | LTE
 vless://49cc6bfe-3d5e-447e-b2a4-55c28410b0b2@tr2.odavpn.online:8443?type=tcp&security=reality&pbk=Lq1xwc-Qd0Te8sV-NxrJLQO6JbvPkknki6inkKj5_WQ&fp=chrome&sni=www.sony.com&sid=22c6f049621c44ec&flow=xtls-rprx-vision#🇹🇷 Турция | LTE
 vless://49cc6bfe-3d5e-447e-b2a4-55c28410b0b2@tal.odavpn.online:443?type=xhttp&path=%2Fapi%2Fv1%2Fupdate&host=www.amd.com&mode=packet-up&security=reality&fp=chrome&pbk=_5YItXYM7SPX7baBG4Fl1MDBE7UvDC8sOx8-0VVueBA&sni=www.amd.com&sid=41774dc9dc721e#🇪🇪 Эстония | LTE
 vless://49d0c0e1-9d25-42f5-af08-3f424592070a@144.31.107.0:443?encryption=none&security=reality&type=grpc&sni=www.microsoft.com&fp=chrome&pbk=A4j57sDAA97uICmt2HhAW7PWMaV39gE6jy_VokhmI1k&serviceName=secure#🇺🇸 США | LTE
-vless://7e7452f2-1004-45ed-a55a-f9d474e152c7@it-bridge.sbrf-cdn342.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=sub.sbrf-cdn342.ru&fp=chrome&type=tcp#🇮🇹 Италия | LTE
 vless://49cc6bfe-3d5e-447e-b2a4-55c28410b0b2@es.odavpn.online:443?type=xhttp&path=%2FeiJrIsx3xyQPUDqF8wT2&host=www.kinopoisk.ru&mode=auto&security=reality&fp=chrome&pbk=RsvpZuptDdeusA92eNz8dWI0ZrUJKkoogbSqUwuj0Go&sni=www.kinopoisk.ru&sid=aabbccdd#🇪🇸 Испания | LTE
 vless://49d0c0e1-9d25-42f5-af08-3f424592070a@stolas.nbbvpn.xyz:443?encryption=none&security=reality&type=grpc&sni=stolas.nbbvpn.xyz&fp=chrome&pbk=hmHfqhtjvEVX39Hd7jAbYaWeQj00a0HUfJsdHUTT7SM&sid=f5ec91869408cc64&serviceName=secure#🇧🇾 Беларусь | LTE
 vless://cb8ef789-2eb0-455a-909d-879fe09cf9d4@am.nodes.rocketnetwork.ru:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=am.nodes.rocketnetwork.ru&fp=chrome&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32&type=tcp#🇦🇲 Армения | LTE
 
-
 vless://c7588dfa-65df-4965-87c3-6f838c296610@nl-u10.vpn-port.com:443?security=reality&encryption=none&pbk=8R7xmC2ou_D7bJCbsNLZMy1gGkhhvqh-8DmwFo0zt0M&fp=chrome&spx=%2FwYxeE6rVE2li43l&allowinsecure=0&type=grpc&sni=yimg.com&sid=d2d52f8d9aa66b#🇳🇱 Нидерланды | WiFiи LTE
-vless://d2b2c45d-50e7-4df6-887a-e4b3eb707740@fr-u9.vpn-port.com:443?security=reality&encryption=none&pbk=SsFNPkgyzbRjz6SwfWxuAWOadCOatx_2-nQCBB9EhTA&fp=chrome&spx=%2FX7ORJmWJnu4Phnn&allowinsecure=0&type=grpc&sni=yimg.com&sid=b6349c7a#🇫🇷 Франция |  WiFi и LTE
 vless://5e2befab-e21b-4820-8c85-ebb7aae82913@188.241.241.15:8443?security=reality&encryption=none&pbk=5c_t0D_v-CEnVeISY6bTzPufEREugRvBi25e0k_bsj4&fp=chrome&spx=%2Fversion&allowinsecure=0&type=xhttp&sni=akashi.vk-portal.net&sid=e65d3cf17e8fffb1#🇩🇪 Германия | WiFi и LTE
 
-
-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2Njc1Y2JmNjJkNmEzYTRm@57.129.95.45:11201#🇩🇪%20Германия%20|%20УльтраКрут%20
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@176.126.83.158:990#🇮🇹%20Италия%20|%20УльтраКрут%20
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.180.216.114:7307#🇪🇪%20Эстония%20|%20УльтраКрут%20
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5S1ZNb0IzQXdpVEV6bnBub3EyRllS@193.47.60.186:28687#🇫🇮%20Финляндия%20|%20УльтраКрут%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZNjZON2VETXFibjV1UFdFdTVWcHkx@195.93.253.240:14130#🇳🇱%20Нидерланды%20|%20УльтраКрут%20
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUVpsN0hEeFNhYnIxRnVyVFlRSEZV@216.105.168.18:443#🇺🇸%20США%20|%20УльтраКрут%20
 ss://YWVzLTI1Ni1nY206MTRDTEJhRkJxd3F4Qkp5Ng==@66.94.125.178:80#🇺🇸%20США%20|%20УльтраКрут%20
