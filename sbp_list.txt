@@ -1,5 +1,5 @@
 #profile-title: НикиткоСБП
-#announce: Нажмите на значок "⏲" и измерьте скорость. Там где Н/Д - не работает. Чем ниже мс - тем лучше. Уяснили? Молодцы, возьмите с полки пирожок.
+#announce: Собраны все лучшие, средние и резервные сервера - 41 в одном!
 #profile-update-interval: 1
 #support-url: https://github.com/KitGamerYT/NikitkoSBP/blob/main/README.md
 #profile-web-page-url: https://github.com/KitGamerYT/NikitkoSBP/blob/main/README.md
