@@ -4,10 +4,9 @@
 #support-url: https://github.com/KitGamerYT/NikitkoSBP/blob/main/README.md
 #profile-web-page-url: https://github.com/KitGamerYT/NikitkoSBP/blob/main/README.md
 
-ss://YzJmMmQ6ZmFrZXBhc3N3b3Jk@127.0.0.1:1#НОВЫЕ СЕРВЕРА!
-ss://YzJmMmQ6ZmFrZXBhc3N3b3Jk@127.0.0.1:1#ЗАХОДИ НА САЙТ И
-ss://YzJmMmQ6ZmFrZXBhc3N3b3Jk@127.0.0.1:1#ДОБАВЛЯЙ
-ss://YzJmMmQ6ZmFrZXBhc3N3b3Jk@127.0.0.1:1#==БЫСТРЫЕ==
+ss://YzJmMmQ6ZmFrZXBhc3N3b3Jk@127.0.0.1:1#Новые сервера на сайте!
+ss://YzJmMmQ6ZmFrZXBhc3N3b3Jk@127.0.0.1:1#Спасибо за использование.
+ss://YzJmMmQ6ZmFrZXBhc3N3b3Jk@127.0.0.1:1#==БЫСТРЫЕ СЕРВЕРА==
 
 vless://9c31cf36-7616-437e-9917-fd029ed9ab5f@89.125.37.118:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=chat.deepseek.com&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&type=tcp#🇸🇪 Швеция | Wi-Fi
 vless://e559b201-72bb-4eb4-9d0e-7e2b029dfe63@155.212.215.77:4359?encryption=none&flow=xtls-rprx-vision&security=reality&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp#🇸🇪 Швеция | Wi-Fi
