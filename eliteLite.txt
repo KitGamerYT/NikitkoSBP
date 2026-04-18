@@ -18,3 +18,9 @@ vless://aca62032-1d7c-41cf-904e-04cb867006f7@217.28.225.247:4443?security=realit
 vless://662f37d5-6ef2-4fa0-9618-d4f9d9714386@51.250.32.253:4443?type=tcp&security=reality&encryption=none&fp=qq&pbk=O2TFVv21lX8FkLBeJiYH1XiAC2F-pNw3Fu2Luv2sNV8&sid=54c2&sni=max.ru#🇩🇪 Германия | Elite Lite
 vless://75807638-6f19-01f4-ae08-38492ee85c88@cluster-de-1.firstvideocdn.ru:52006?type=tcp&security=tls&encryption=none&flow=xtls-rprx-vision&fp=chrome#🇩🇪 Германия | Elite Lite
 vless://662f37d5-6ef2-4fa0-9618-d4f9d9714386@51.250.32.253:4443?encryption=none&type=tcp&security=reality&fp=qq&sni=max.ru&pbk=O2TFVv21lX8FkLBeJiYH1XiAC2F-pNw3Fu2Luv2sNV8&sid=54c2&spx=%25252525252F#🇩🇪 Германия | Elite Lite
+
+#profile-title: НикиткоСБП
+#announce: Новые сервера Elite Lite! Пока что BETA тестирование.
+#profile-update-interval: 1
+#support-url: https://github.com/KitGamerYT/NikitkoSBP/blob/main/README.md
+#profile-web-page-url: https://github.com/KitGamerYT/NikitkoSBP/blob/main/README.md
