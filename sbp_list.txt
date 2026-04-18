@@ -1,19 +1,10 @@
 #profile-title: НикиткоСБП
-#announce: Собраны все лучшие, средние и резервные сервера - 41 в одном!
+#announce: Собраны все лучшие и резервные сервера - 37 в одном!
 #profile-update-interval: 1
 #support-url: https://github.com/KitGamerYT/NikitkoSBP/blob/main/README.md
 #profile-web-page-url: https://github.com/KitGamerYT/NikitkoSBP/blob/main/README.md
 
 ss://YzJmMmQ6ZmFrZXBhc3N3b3Jk@127.0.0.1:1#=====ЛУЧШЕЕ=====
-vless://57e73dcd-5fdb-4f2c-a83a-df88028b6d9a@test.grey-lance.test-cdn-kkk.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=qq&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&type=tcp#🇪🇺АВТО | ELITE👑
-
-vless://57e73dcd-5fdb-4f2c-a83a-df88028b6d9a@test.fox-marsh.test-cdn-kkk.com:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&type=tcp#🇪🇺LTE #1 | ELITE👑
-
-vless://57e73dcd-5fdb-4f2c-a83a-df88028b6d9a@test.grey-lance.test-cdn-kkk.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tradingview.com&fp=qq&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&type=tcp#🇪🇺LTE #2 | ELITE👑
-
-vless://57e73dcd-5fdb-4f2c-a83a-df88028b6d9a@test.bear-grove.test-cdn-kkk.com:9443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=random&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&type=tcp#🇪🇺LTE #3 | ELITE👑
-
-ss://YzJmMmQ6ZmFrZXBhc3N3b3Jk@127.0.0.1:1#=====СРЕДНЕЕ=====
 vless://9c31cf36-7616-437e-9917-fd029ed9ab5f@89.125.37.118:7443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=chat.deepseek.com&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&type=tcp#🇸🇪 Швеция | Wi-Fi
 vless://e559b201-72bb-4eb4-9d0e-7e2b029dfe63@155.212.215.77:4359?encryption=none&flow=xtls-rprx-vision&security=reality&sni=files.moscownews24.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp#🇸🇪 Швеция | Wi-Fi
 vless://49cc6bfe-3d5e-447e-b2a4-55c28410b0b2@fin.odavpn.online:8443?type=tcp&security=reality&pbk=JUg1ffaYEBNIbnNJHDWFP7pnX2LLGONJbjP5m1ab6Fo&fp=chrome&sni=storage.mds.yandex.net&sid=ca75b88bd067b39d&flow=xtls-rprx-vision#🇫🇮 Финляндия | Wi-Fi
